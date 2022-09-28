@@ -1,19 +1,21 @@
-# Interventions
+# Intervention
 
-## The Body Project
-We will use a 2-session, peer-facilitated dissonance-based Body Project Intervention, which asks participants to engage in a series of exercises to critique culturally-sanctioned appearance ideals, and specifically targets reductions in thin-ideal internalization [@beckerPeerfacilitatedEatingDisorder2006].
+## Weight-Bias Brochure
 
-## The Body Advocacy Movement
-BAM leverages both dissonance and exposure-based intervention strategies, adapting common exercises used to promote body acceptance and challenge sociocultural body ideals to specifically target anti-fat bias and internalized fatphobia. Participants in BAM will (1) Define anti-fat bias and fatphobia and explore how these constructs manifest in personal beliefs and interpersonal interactions, (2) Engage in imaginal exposure exercises to challenge fears related to fatness and weight gain (3) Reflect on how fears of fatness align with personal values, (4) Learn new ways to challenge fear of fatness and internalized anti-fat bias and (5) Discuss ways to challenge anti-fat bias on an institutional and societal level. Intervention content. 
+## The Body Advocacy Movement Intervention for Healthcare Professionals (BAM-Health)
+
+The BAM-Health intervention leverages both cognitive dissonance and exposure-based intervention strategies, adapting common exercises used to promote body acceptance and challenge sociocultural body ideals to specifically target anti-fat bias and fatphobia among healthcare students. Dissonance-based prevention programs specifically aim to change internalized beliefs by asking participants to speak and act in ways that reject such beliefs. When individuals repeatedly speak and act in ways that contradict internalized beliefs, such beliefs are likely to shift to align with new patterns of behavior.16,18 In addition to dissonance, exposure is a relevant therapeutic mechanism specifically designed to challenge beliefs that are linked with feared outcomes.19,20 When engaging in exposure exercises, individuals act in ways that challenge fears in order to specifically test expectations regarding the likelihood of and/or their ability to emotionally manage feared outcomes, leading to reductions in both internalized fears and behavioral avoidance over time.19  S. 
 
 ### Session 1 
-Session 1 includes introductions, discussing identities and clarifying terminology, and an exercise in defining anti-fat bias and fatphobia. Participants will be asked to complete an imaginal exposure exercise several times during the week in which they will write and then recount a ‘worst-case scenario’ of what they might fear could happen if they gained a significant amount of weight. 
+Session 1 includes introductions, discussing identities and clarifying terminology, and an exercise in defining anti-fat bias and fatphobia and ways in which these biases present in the healthcare setting, discussion of how weight and health intersect in both personal and professional settings, and identification of ways individuals can uproot internalized fatphobia and anti-fat bias (e.g. diversifying social media feed and reading lists). Participants will choose one way to do this in the coming week. Participants are also  asked to complete an imaginal exposure exercise at home where in which they will write and then recount several times during the week a ‘worst-case scenario’ of what they might fear could happen if they gained a significant amount of weight
 
 ### Session 2
-Session 2 includes debriefing the exposure homework and identification of ways one might uproot internalized fear of fatness, along with a series of role plays in which peer facilitators will play the role of a friend or family member in a situation that evokes anti-fat attitudes, and participants will practice challenging these attitudes. Participants will also identify ways to challenge anti-fat bias in society and commit to engaging in one activity to do so in the coming week. As an exit exercise, they will  write a ‘response letter’ to their worst-case scenario. 
+Session 2 will include a debrief of the homework and a series of role plays. In these role plays, peer facilitators will play the role of a friend, colleague, or patient in a situation that evokes anti-fat attitudes, and participants will practice challenging anti-fat attitudes. Participants will also identify ways to uproot anti-fat bias in the healthcare system and commit to engaging in one activity to do so in the coming week. They will also be asked to write a ‘response letter’ to their worst-case scenario as an exit exercise 
+
 
 ## Peer Facilitators
-We will employ a peer-facilitated model of group intervention in this program, where a small group of 6-10 facilitators will undergo an 8-hour training program, similar to @sticeClinicianLedPeerLedInternetDelivered2017. Peer facilitators will train in teams – each peer-leader team will role-play delivery of the entire intervention and observed other peer leaders teams do the same, receiving live clinical supervision. 
+
+We employ a peer-facilitated model of group intervention in this program, where a small group facilitators  undergo an 12-hour training program, similar to @sticeClinicianLedPeerLedInternetDelivered2017. Peer facilitators will train in teams – each peer-leader team will role-play delivery of the entire intervention and observed other peer leaders teams do the same, receiving live clinical supervision. 
 
 
 ## Intervention Fidelity

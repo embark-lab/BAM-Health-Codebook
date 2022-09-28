@@ -1,1 +1,12 @@
-The majority of our self-report measures (unless noted otherwise) are scored via the `scorekeeper` R package. All scoresheets and R code for our data cleaning piplesline included in this study is avaialble [here](https://github.com/embark-lab/bam-scorekeep/tree/main/scoresheets). You can replicate scoring procedures for a given measure by running the scorekeep function with raw data that matches characteristics of the raw data outlined in each scoresheet. Below is information on measures included in this project and soring procedures employed. 
+## Self-Report Measures
+
+The majority of our self-report measures (unless noted otherwise) are scored via the `scorekeeper` R package. 
+
+All scoresheets and R code for our data cleaning pipeline included in this study is available in our [BAM-Health-Scoring GitHub Repository](xxx). 
+
+You can replicate scoring procedures for a given measure by running the scorekeep function with raw data that matches characteristics of the raw data outlined in each scoresheet. Below is information on measures included in this project and scoring procedures employed. 
+
+## Task-Based Measures
+
+Task-based measures will be scored using an R script, housed in the [BAM-Health-Scoring GitHub Repository](xxx). 
+

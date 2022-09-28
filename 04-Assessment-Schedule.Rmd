@@ -1,11 +1,7 @@
 # Assessment Schedule
 
-```{r, echo = FALSE}
-library(readxl)
-library(kableExtra)
-assess <-readxl::read_excel('assessment_schedule.xlsx')
+```{r assess, echo = FALSE, fig.cap= 'BAM Health Assessment Schedule'}
 
-kbl(assess) |> 
-  kable_styling(bootstrap_options = c("striped", "hover"))
+knitr::include_graphics('figs/Assessment.png')
+
 ```
-*behavioral task

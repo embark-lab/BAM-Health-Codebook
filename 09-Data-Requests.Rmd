@@ -16,4 +16,4 @@ In order to request data use, please complete the following steps:
 
 **2.** [Book a 15-minute meeting](https://calendly.com/katherine-schaumberg/15min) with Dr. Schaumberg to discuss your idea. 
 
-For secondary analysis projects that *exclusively* use BAM data, Dr. Schaumberg will serve as senior (last) author, and at least one additional EMBARK Lab collaborator will join as an author on the project. Alternative arrangements can be discussed if BAM is one of multiple data sources for a project. 
+For secondary analysis projects that *exclusively* use BAM-Health data, Dr. Schaumberg will serve as senior (last) author, and at least one additional EMBARK Lab collaborator will join as an author on the project. Alternative arrangements can be discussed if BAM-Health is one of multiple data sources for a project. 

@@ -1,5 +1,5 @@
 --- 
-title: "Body Advocacy Movement - Study Procedures and Measures"
+title: "Body Advocacy Movement for Health Professionals - Study Procedures and Measures"
 author: "Katherine Schaumberg"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,23 +8,29 @@ keep_md: true
 bibliography: ['BAM-codebook.bib']
 csl: apa-single-spaced.csl
 link-citations: true
-github-repo: embark-lab/bam-bookdown
-description: "This is a package which contains study information, measures, and complete data dictionary for the Body Advocacy Movement Study (Wave 1: 2021-2023)"
+github-repo: embark-lab/BAM-Health-Codebook
+description: "This is a package which contains study information, measures, and complete data dictionary for the Body Advocacy Movement Study with Healthcare Professionals (Wave 1: 2021-2023)"
 
 ---
 # Study Premise
 
-The Body Advocacy Movement Study (Phase 1: 2021-2023) is a pilot study investigating the feasibility, acceptability, and preliminary efficacy of an eating disorder risk reduction intervention developed by the EMBARK lab in 2020.  
+A substantial portion of individuals in Wisconsin are classified as obese (14% of children; 32% of adults) according to body mass index (BMI) measures, which are gathered regularly at healthcare visits and noted prominently in patient charts. A growing body of evidence indicates that anti-fat bias (i.e. negative ideologies, weight-based stereotypes, and discrimination based on weight and body size) and fatphobia (i.e. the internalized fear of fatness, weight gain, and fat bodies) are pervasive throughout Western society, contribute to poor health outcomes for individuals in larger bodies, and significantly impact healthcare access, quality, and equity.1–3 Further, weight-related biases in the healthcare system have a direct impact on patient health, as individuals in larger bodies are less likely to seek care4 and more likely to receive misdiagnosis and suboptimal treatment.2 Anti-fat bias can amplify other systemic biases and disparities in healthcare, as some minoritized groups, including African-American people, Hispanic-origin people, and sexual minority women, have elevated prevalence of high weight status in the United States.5,6  In addition to impacts on patients, anti-fat bias in the healthcare system can also adversely impact provider wellbeing.7 
 
-While existing, dissonance programs (i.e. the Body Project) target reductions in thin-ideal internalization, fears related to fatness and weight gain may be a particularly salient cognitive target among those with current or past eating disorder symptomatology [@levinsonAddressingFearFat2014]. In an effort to mitigate risk for ED onset and relapse among high-risk young adults (i.e. those in ED partial- or full-remission and/or those with ongoing subthreshold ED symptoms), the current project includes development and initial evaluation of a novel, peer-led intervention that focuses specifically on fear of fatness and anti-fat bias (the Body Advocacy Movement; BAM). 
 
-This project aims to recruit 60 young adults (ages 18-26) -- randomized to a standard dissonance intervention program (the Body Project; N = 20) or BAM (N = 40). Our objective is to examine the degree to which BAM can reduce fear of fatness and weight gain along with internalized anti-fat bias and reduce risk for ED symptom exacerbation and promote ongoing ED recovery in a high-risk, young adult sample. We will evaluate feasibility and acceptability of BAM and estimate effects of the intervention on self-report and behavioral measures of fear of weight gain and fatness, anti-fat bias, and eating disorder symptoms. We will conduct initial effect size comparisons with the Body Project to determine whether BAM shows potency in specifically targeting fear of fatness and anti-fat bias.
+While detrimental effects of anti-fat bias on health equity, patient care, and provider wellbeing are well-documented, no large-scale programs have sought to challenge this bias amongst healthcare providers. The primary goal of the current project will be to evaluate the efficacy of a 4-session, group-based, peer-led intervention for healthcare students and professionals which aims to (1) build awareness of anti-fat bias in healthcare, (2) improve clinical competency on weight-related issues in patient encounters, (3) reduce anti-fat bias, (4) challenge internalized fatphobia, and (5) promote effective advocacy to challenge anti-fat bias in the larger healthcare context. 
 
 ## Specific Aims
 
-**Aim 1**: Examine the acceptability and feasibility of BAM in a high-risk young adult sample. Acceptability: Acceptability will be assessed via attrition across a 4-session intervention along with qualitative feedback from a brief survey at post-intervention. We expect to meet benchmarks of high acceptability (average ratings of > 4 [out of 5] on post-intervention survey; < 20% attrition). Feasibility: Feasibility will be benchmarked via intervention adherence (average competency > 8.0 on 0-10 scale) and recruitment goals. 
+1. Validate a clinical vignette-based measure of anti-fat bias which includes selecting differential diagnoses and identifying contributing factors to disease in patients with varying weights. H1: Clinical vignettes will demonstrate good content validity following the application of recommended development protocols.
 
-**Aim 2**: Estimate the effects of the intervention on fear of fatness, anti-fat bias, and eating disorder symptoms. We hypothesize that the BAM intervention will result in acute reductions (post-intervention) in fatphobia and anti-fat bias across self—report and behavioral measures, outperforming the Body Project on targets related to anti-fat bias, specifically.
+2. Evaluate acceptability and feasibility of the Body Advocacy Movement intervention for medical students (BAM-Health). H2: BAM-Health will be both feasible and acceptable as an intervention.
+
+3. Estimate effects of BAM-Health on reducing anti-fat bias (1) in general and (2) in a clinical context. H3: Individuals in the BAM-Health condition will show reductions in general anti-fat bias, along with greater diagnostic accuracy and fewer biased attributions on clinical vignettes after completing the program. We expect larger effect sizes in the BAM vs. brochure control condition.
+
+Exploratory: Estimate effects of the BAM-Health intervention on health professional students’ own body satisfaction, internalized fatphobia, and overall mental health.
+
+
+
 
 
 
